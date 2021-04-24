@@ -1,0 +1,13 @@
+.data-card {
+    background-color: #FFFFFF;
+    width: 50rem;
+    height: 10rem;
+}
+
+.data-title {
+    color: #9d9d9d;
+}
+
+.value-title {
+    color: #7F7F7F;
+}
